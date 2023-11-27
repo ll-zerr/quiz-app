@@ -8,7 +8,7 @@ The goal of the project is to create a quiz that tests your knowledge and displa
 
 ### View My Project:
 
-![Screenshot]()
+![Screenshot](images/quiz-app_img.png)
 
 ## Features
 
@@ -41,7 +41,7 @@ The goal of the project is to create a quiz that tests your knowledge and displa
 
 ### Continued development
 
-In this exercise I learnt how to populate a quiz utilizing a JavaScript array. I hope to combine this project with the Sound Board project from the same course and create a quiz that could be applied to e-learning. 
+In this exercise I learnt how to populate a quiz utilizing a JavaScript array. I hope to combine this project with the [Sound Board](https://github.com/ll-zerr/sound-board) project from the same Udemy course and create a quiz that could be applied to e-learning. 
 
 ## Acknowledgements
 
